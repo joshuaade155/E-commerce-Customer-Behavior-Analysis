@@ -13,6 +13,8 @@
 
 This project aimed to analyze customer data from an E-commerce store to uncover actionable insights and drive strategic decision-making. Below is a detailed overview of the project, from data sourcing to the tools and methodologies used to complete it.
 
+![E-commerce Customer Insights Analysis DashBoard](https://github.com/user-attachments/assets/7873f664-d7b3-4718-8ce9-559b538664a7)
+
 ### Data Source
 
 - The dataset for this project was sourced from Kaggle, which provided anonymized e-commerce data, including customer transactions, demographics, and marketing channel information.
